@@ -73,24 +73,24 @@ li {
 .destaque_texto h3 {
   font-size: 30px;
 }
-.destaque_educacao {
+.destaque_sub_conteudo {
   display: flex;
   align-items: flex-start;
   margin: 3px;
 }
-.destaque_educacao_imagem_1 {
+.destaque_sub_conteudo_imagem_1 {
   padding: 12px;
 }
-.destaque_educacao_texto_1 {
+.destaque_sub_conteudo_texto {
   margin-top: -30px;
   padding: 7px;
   font-size: 21px;
   text-align: left;
 }
-.destaque_educacao_texto_1 h3 {
+.destaque_sub_conteudo_texto h3 {
   font-size: 30px;
 }
-.destaque_educacao_imagem_2 {
+.destaque_sub_conteudo_imagem_2 {
   margin-top: 21px;
   display: table-cell;
   padding: 7px;
@@ -140,19 +140,17 @@ li {
   display: flex;
   align-items: flex-start;
   padding: 3px;
-
 }
-#sec_dir h3{
+#sec_dir h3 {
   font-size: 25px;
 }
-
 
 #sec_esq {
   display: table;
   align-items: flex-start;
   padding: 3px;
 }
-#sec_esq h3{
+#sec_esq h3 {
   font-size: 25px;
 }
 
